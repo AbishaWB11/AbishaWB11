@@ -1,16 +1,14 @@
 ## Hi there 👋
 
-<!--
-**AbishaWB11/AbishaWB11** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a Computer Science graduate currently enrolled in a Full Stack UI Development Bootcamp. I'm learning how to build dynamic and responsive web applications using:
 
-Here are some ideas to get you started:
+### 🚀 Tech Stack
+- **Frontend:** HTML, CSS, JavaScript, jQuery
+- **Backend:** Node.js, Express.js
+- **Database:** MongoDB, SQL
+### 💡 About Me
+- 👨‍🎓 CSE graduate, fresher in the tech industry
+- 🌱 Passionate about improving my skills through hands-on learning
+- 🤝 Looking forward to contributing to open source and team projects
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+  Thanks for visiting my profile! 😊
