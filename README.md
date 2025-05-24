@@ -9,6 +9,6 @@ I'm a Computer Science graduate currently enrolled in a Full Stack UI Developmen
 ### 💡 About Me
 - 👨‍🎓 CSE graduate, fresher in the tech industry
 - 🌱 Passionate about improving my skills through hands-on learning
-- 🤝 Looking forward to contributing to open source and team projects
+
 
   Thanks for visiting my profile! 😊
