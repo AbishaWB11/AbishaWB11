@@ -1,14 +1,224 @@
-## Hi there 👋
+<div align="center">
 
-I'm a Computer Science graduate currently enrolled in a Full Stack UI Development Bootcamp. I'm learning how to build dynamic and responsive web applications using:
+# 💿 ABISHA.EXE
 
-### Tech 
-- **Frontend:** HTML, CSS, JavaScript, jQuery
-- **Backend:** Node.js, Express.js
-- **Database:** MongoDB, SQL
-###  About Me
-- 👨‍🎓 CSE graduate, fresher in the tech industry
-- 🌱 Passionate about improving my skills through hands-on learning
+<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=28&duration=3000&pause=1000&color=C084FC&center=true&vCenter=true&width=800&lines=Frontend+Developer;UI+Designer;React+Developer;Creative+Technologist;Building+The+Future+One+Pixel+At+A+Time" />
 
+<img src="https://capsule-render.vercel.app/api?type=waving&height=250&color=gradient&text=ABISHA%20WINSLET&fontSize=55&fontAlignY=40&animation=fadeIn"/>
 
-  Thanks for visiting my profile! 😊
+✨ Frontend Developer • UI Designer • Full Stack Learner ✨
+
+🦋 Building beautiful experiences
+
+💜 Learning every day
+
+🚀 Future Senior Frontend Engineer
+
+</div>
+
+---
+
+<div align="center">
+
+## 🌙 Connect With Me
+
+<a href="https://linkedin.com/in/YOUR_LINKEDIN">
+<img src="https://img.shields.io/badge/LinkedIn-8A2BE2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="mailto:YOUR_EMAIL">
+<img src="https://img.shields.io/badge/Gmail-C084FC?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://YOUR_PORTFOLIO">
+<img src="https://img.shields.io/badge/Portfolio-DDA0DD?style=for-the-badge&logo=vercel&logoColor=white"/>
+</a>
+
+</div>
+
+---
+
+# 💖 About Me
+
+```yaml
+Name: Abisha Winslet
+Location: India
+Role: Frontend Developer
+Learning:
+  - React
+  - Node.js
+  - MongoDB
+  - DSA
+  - System Design
+
+Currently Building:
+  - CineBinge
+  - TrackHire
+  - Hostel Management Platform
+
+Goal:
+  - Become Senior Frontend Engineer
+  - Build Production Ready Applications
+  - Contribute to Open Source
+```
+
+---
+
+# 💿 Tech Universe
+
+<div align="center">
+
+### 🎨 Frontend
+
+<img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,bootstrap,vite"/>
+
+### ⚙ Backend
+
+<img src="https://skillicons.dev/icons?i=nodejs,express"/>
+
+### 🗄 Database
+
+<img src="https://skillicons.dev/icons?i=mongodb,mysql"/>
+
+### ☁ Deployment
+
+<img src="https://skillicons.dev/icons?i=vercel,netlify"/>
+
+### 🔧 Tools
+
+<img src="https://skillicons.dev/icons?i=git,github,vscode,postman"/>
+
+</div>
+
+---
+
+# 🚀 Featured Projects
+
+<table>
+<tr>
+<td width="50%">
+
+## 🎬 CineBinge
+
+Movie Discovery Platform
+
+✨ React
+
+✨ Tailwind CSS
+
+✨ TMDB API
+
+</td>
+
+<td width="50%">
+
+## 📋 TrackHire
+
+Job Application Tracker
+
+✨ React
+
+✨ MongoDB
+
+✨ Node.js
+
+</td>
+</tr>
+
+<tr>
+</tr>
+</table>
+
+---
+
+# 📊 GitHub Analytics
+
+<div align="center">
+
+<img height="170em" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true"/>
+
+</div>
+
+---
+
+# 🔥 Contribution Streak
+
+<div align="center">
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight&hide_border=true"/>
+
+</div>
+
+---
+
+# 🌌 GitHub Activity Graph
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=tokyo-night&hide_border=true"/>
+
+</div>
+
+---
+
+# 🐍 Contribution Snake
+
+<div align="center">
+
+![Snake animation](https://github.com/YOUR_USERNAME/YOUR_USERNAME/blob/output/github-contribution-grid-snake.svg)
+
+</div>
+
+---
+
+# 🌙 Current Mission
+
+```diff
++ Land Frontend Developer Job
+
++ Build Personal Brand
+
++ Create 10 Production Projects
+
++ Master React
+
++ Master DSA
+
++ Contribute To Open Source
+
++ Become Financially Independent
+```
+
+---
+
+# 💫 Fun Facts
+
+✨ I enjoy creating aesthetic user interfaces
+
+🦋 Learning never stops
+
+💿 Building projects one commit at a time
+
+🌙 Turning ideas into reality through code
+
+---
+
+<div align="center">
+
+## 👀 Visitors
+
+<img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=PROFILE+VIEWS&color=blueviolet&style=for-the-badge"/>
+
+</div>
+
+---
+
+<div align="center">
+
+### 💜 Thanks For Visiting My Profile
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=150&section=footer&color=gradient"/>
+
+</div>
