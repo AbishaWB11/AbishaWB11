@@ -22,11 +22,11 @@
 
 ## 🌙 Connect With Me
 
-<a href="https://linkedin.com/in/YOUR_LINKEDIN">
+<a href="www.linkedin.com/in/abisha-winslet">
 <img src="https://img.shields.io/badge/LinkedIn-8A2BE2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
-<a href="mailto:YOUR_EMAIL">
+<a href="mailto:abishawinslet@gmail.com">
 <img src="https://img.shields.io/badge/Gmail-C084FC?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
@@ -54,13 +54,6 @@ Learning:
 Currently Building:
   - CineBinge
   - TrackHire
-  - Hostel Management Platform
-
-Goal:
-  - Become Senior Frontend Engineer
-  - Build Production Ready Applications
-  - Contribute to Open Source
-```
 
 ---
 
@@ -135,9 +128,9 @@ Job Application Tracker
 
 <div align="center">
 
-<img height="170em" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true"/>
+<img height="170em" src="https://github-readme-stats.vercel.app/api?username=AbishaWB11&show_icons=true&theme=tokyonight&hide_border=true"/>
 
-<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true"/>
+<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AbishaWB11&layout=compact&theme=tokyonight&hide_border=true"/>
 
 </div>
 
@@ -147,7 +140,7 @@ Job Application Tracker
 
 <div align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight&hide_border=true"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=AbishaWB11&theme=tokyonight&hide_border=true"/>
 
 </div>
 
@@ -157,7 +150,7 @@ Job Application Tracker
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=tokyo-night&hide_border=true"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=AbishaWB11&theme=tokyo-night&hide_border=true"/>
 
 </div>
 
@@ -167,31 +160,12 @@ Job Application Tracker
 
 <div align="center">
 
-![Snake animation](https://github.com/YOUR_USERNAME/YOUR_USERNAME/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/AbishaWB11/AbishaWB11/blob/output/github-contribution-grid-snake.svg)
 
 </div>
 
 ---
 
-# 🌙 Current Mission
-
-```diff
-+ Land Frontend Developer Job
-
-+ Build Personal Brand
-
-+ Create 10 Production Projects
-
-+ Master React
-
-+ Master DSA
-
-+ Contribute To Open Source
-
-+ Become Financially Independent
-```
-
----
 
 # 💫 Fun Facts
 
@@ -202,16 +176,6 @@ Job Application Tracker
 💿 Building projects one commit at a time
 
 🌙 Turning ideas into reality through code
-
----
-
-<div align="center">
-
-## 👀 Visitors
-
-<img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=PROFILE+VIEWS&color=blueviolet&style=for-the-badge"/>
-
-</div>
 
 ---
 
