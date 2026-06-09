@@ -22,10 +22,6 @@
 
 ## 🌙 Connect With Me
 
-<a href="www.linkedin.com/in/abisha-winslet">
-<img src="https://img.shields.io/badge/LinkedIn-8A2BE2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
 <a href="mailto:abishawinslet@gmail.com">
 <img src="https://img.shields.io/badge/Gmail-C084FC?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
