@@ -12,7 +12,7 @@
 
 💜 Learning every day
 
-🚀 Future Senior Frontend Engineer
+🚀 Future Full Stack Web Developer
 
 </div>
 
