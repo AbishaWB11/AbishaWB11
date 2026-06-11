@@ -2,7 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&text=ABISHA.EXE&fontSize=70&animation=fadeIn&fontAlignY=40"/>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=30&duration=2500&pause=1000&color=C084FC&center=true&vCenter=true&width=900&lines=Frontend+Developer;UI+Designer;React+Developer;Creative+Builder"/>
+<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=30&duration=2500&pause=1000&color=C084FC&center=true&vCenter=true&width=900&lines=Frontend+Developer;UI+Designer;React+Developer;"/>
 
 🌙 Frontend Developer • UI Designer • Full Stack Learner
 
@@ -26,7 +26,6 @@ const abisha = {
   currentlyLearning: [
     "React",
     "Node.js",
-    "System Design",
     "DSA"
   ],
 
@@ -38,7 +37,6 @@ const abisha = {
   interests: [
     "Frontend Development",
     "UI Design",
-    "Creative Coding",
     "Open Source"
   ],
 
