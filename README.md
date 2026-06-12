@@ -26,6 +26,8 @@ const abisha = {
   currentlyLearning: [
     "React",
     "Node.js",
+    "TypeScript",
+    "Next.js"
     "DSA"
   ],
 
