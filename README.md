@@ -1,63 +1,88 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&text=ABISHA.EXE&fontSize=70&animation=fadeIn&fontAlignY=40"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=280&color=0:6C63FF,100:C084FC&text=ABISHA%20WINSLET&fontSize=60&fontAlignY=40&animation=fadeIn"/>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=30&duration=2500&pause=1000&color=C084FC&center=true&vCenter=true&width=900&lines=Frontend+Developer;UI+Designer;React+Developer;"/>
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=28&duration=2500&pause=1000&color=C084FC&center=true&vCenter=true&width=800&lines=Frontend+Developer;React+Developer;Open+Source+Contributor;Building+WoofWiki+🐶;Learning+Full+Stack+Development"/>
 
-🌙 Frontend Developer • UI Designer • Full Stack Learner
+### 🚀 Frontend Developer | React Enthusiast | Open Source Learner
 
-🦋 Currently building cool things with React
+Building clean user experiences and solving real-world problems through code.
 
-<img src="https://komarev.com/ghpvc/?username=AbishaWB11&label=Profile+Views&color=blueviolet&style=for-the-badge"/>
+<img src="https://komarev.com/ghpvc/?username=AbishaWB11&label=Profile+Views&color=8b5cf6&style=for-the-badge"/>
 
 </div>
 
 ---
 
-# 💖 ABOUT_ME.md
+# 👩‍💻 About Me
 
 ```javascript
 const abisha = {
   name: "Abisha Winslet",
-  github: "AbishaWB11",
   role: "Frontend Developer",
   location: "India",
 
   currentlyLearning: [
     "React",
-    "Node.js",
     "TypeScript",
-    "Next.js"
+    "Next.js",
+    "Node.js",
     "DSA"
   ],
 
-  currentlyBuilding: [
-    "TrackHire",
-    "CineBinge"
+  building: [
+    "WoofWiki 🐶",
+    "TrackHire 💼",
+    "CineBinge 🎬"
   ],
 
   interests: [
     "Frontend Development",
-    "UI Design",
-    "Open Source"
+    "UI/UX Design",
+    "Open Source",
+    "Web Performance"
   ],
 
-  mission:
-    "Build beautiful products that solve real problems."
+  goal: "Become a Senior Full Stack Developer"
 }
 ```
 
-# 🚀 TECH STACK
+---
 
-<div align="center">
+# 🚀 Featured Projects
 
-<img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,vite,bootstrap,nodejs,express,mongodb,mysql,git,github,vscode,postman,vercel,netlify"/>
-
-</div>
+| Project              | Description                               | Stack           |
+| -------------------- | ----------------------------------------- | --------------- |
+| 🐶 WoofWiki          | Dog breed & pet care information platform | React, Tailwind |
+| 🎬 CineBinge         | Movie discovery web application           | React, API      |
+| 💼 TrackHire         | Job application tracker                   | MERN Stack      |
+| 🏠 Hostel Management | Student accommodation platform            | React, Node.js  |
 
 ---
 
-# 📊 GITHUB STATS
+# 🛠 Tech Stack
+
+### Frontend
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,bootstrap,vite" />
+</p>
+
+### Backend & Database
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql" />
+</p>
+
+### Tools
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=git,github,vscode,postman,vercel,netlify" />
+</p>
+
+---
+
+# 📊 GitHub Analytics
 
 <div align="center">
 
@@ -69,7 +94,7 @@ const abisha = {
 
 ---
 
-# 🔥 CONTRIBUTION STREAK
+# 🔥 Contribution Streak
 
 <div align="center">
 
@@ -79,33 +104,52 @@ const abisha = {
 
 ---
 
-# 📈 ACTIVITY GRAPH
+# 📈 Contribution Graph
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=AbishaWB11&theme=tokyo-night"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=AbishaWB11&theme=tokyo-night&hide_border=true"/>
 
 </div>
 
 ---
+
+# 🎯 2026 Goals
+
+* ✅ Contribute to Open Source Projects
+* ✅ Master React Ecosystem
+* ✅ Learn TypeScript & Next.js
+* ✅ Improve DSA Skills
+* ✅ Build Production Ready Applications
+* 🎯 Land a Full Stack Developer Role
+
 ---
 
-# 📬 CONNECT
+# 🏆 GitHub Trophies
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=AbishaWB11&theme=tokyonight&no-frame=true&row=1&column=6"/>
+
+</div>
+
+---
+
+# 📬 Connect With Me
 
 <div align="center">
 
 <a href="mailto:abishawinslet@gmail.com">
-<img src="https://img.shields.io/badge/GMAIL-C084FC?style=for-the-badge&logo=gmail&logoColor=white"/>
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
-
 </div>
 
 ---
 
 <div align="center">
 
-### 💿 ABISHA.EXE LOADED SUCCESSFULLY
+### ✨ Building products, learning continuously, and contributing to open source.
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=150&section=footer&color=gradient"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:6C63FF,100:C084FC"/>
 
 </div>
