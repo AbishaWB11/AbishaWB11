@@ -4,7 +4,7 @@
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=28&duration=2500&pause=1000&color=C084FC&center=true&vCenter=true&width=800&lines=Frontend+Developer;React+Developer;Open+Source+Contributor;Building+WoofWiki+🐶;Learning+Full+Stack+Development"/>
 
-### 🚀 Frontend Developer | React Enthusiast | Open Source Learner
+###  Frontend Developer | React Enthusiast 
 
 Building clean user experiences and solving real-world problems through code.
 
@@ -31,32 +31,31 @@ const abisha = {
   ],
 
   building: [
-    "WoofWiki 🐶",
+    "Woofpedia 🐶",
     "TrackHire 💼",
     "CineBinge 🎬"
   ],
 
   interests: [
     "Frontend Development",
-    "UI/UX Design",
     "Open Source",
     "Web Performance"
   ],
 
-  goal: "Become a Senior Full Stack Developer"
+  goal: "Become a  Full Stack Developer"
 }
 ```
 
 ---
 
-# 🚀 Featured Projects
+#  Featured Projects
 
 | Project              | Description                               | Stack           |
 | -------------------- | ----------------------------------------- | --------------- |
 | 🐶 WoofWiki          | Dog breed & pet care information platform | React, Tailwind |
 | 🎬 CineBinge         | Movie discovery web application           | React, API      |
 | 💼 TrackHire         | Job application tracker                   | MERN Stack      |
-| 🏠 Hostel Management | Student accommodation platform            | React, Node.js  |
+
 
 ---
 
@@ -118,21 +117,11 @@ const abisha = {
 
 * ✅ Contribute to Open Source Projects
 * ✅ Master React Ecosystem
-* ✅ Learn TypeScript & Next.js
+* ✅ Learn TypeScript & Next.js GenAI
 * ✅ Improve DSA Skills
 * ✅ Build Production Ready Applications
 * 🎯 Land a Full Stack Developer Role
-
----
-
-# 🏆 GitHub Trophies
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=AbishaWB11&theme=tokyonight&no-frame=true&row=1&column=6"/>
-
-</div>
-
+  
 ---
 
 # 📬 Connect With Me
@@ -148,7 +137,6 @@ const abisha = {
 
 <div align="center">
 
-### ✨ Building products, learning continuously, and contributing to open source.
 
 <img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:6C63FF,100:C084FC"/>
 
