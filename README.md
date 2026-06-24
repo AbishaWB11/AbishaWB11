@@ -2,7 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&height=280&color=0:6C63FF,100:C084FC&text=ABISHA%20WINSLET&fontSize=60&fontAlignY=40&animation=fadeIn"/>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=28&duration=2500&pause=1000&color=C084FC&center=true&vCenter=true&width=800&lines=Frontend+Developer;React+Developer;Open+Source+Contributor;Building+WoofWiki+🐶;Learning+Full+Stack+Development"/>
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=28&duration=2500&pause=1000&color=C084FC&center=true&vCenter=true&width=800&lines=Frontend+Developer;React+Developer;Learning+Full+Stack+Development"/>
 
 ###  Frontend Developer | React Enthusiast 
 
