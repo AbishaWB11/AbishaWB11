@@ -52,7 +52,7 @@ const abisha = {
 
 | Project              | Description                               | Stack           |
 | -------------------- | ----------------------------------------- | --------------- |
-| 🐶 WoofWiki          | Dog breed & pet care information platform | React, Tailwind |
+| 🐶 Woofpedia         | Dog breed & pet care information platform | React, Tailwind |
 | 🎬 CineBinge         | Movie discovery web application           | React, API      |
 | 💼 TrackHire         | Job application tracker                   | MERN Stack      |
 
