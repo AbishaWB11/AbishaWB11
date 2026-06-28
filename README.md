@@ -31,7 +31,7 @@ const abisha = {
   ],
 
   building: [
-    "Woofpedia 🐶",
+    "Cravefeed  ",
     "TrackHire 💼",
     "CineBinge 🎬"
   ],
@@ -52,9 +52,9 @@ const abisha = {
 
 | Project              | Description                               | Stack           |
 | -------------------- | ----------------------------------------- | --------------- |
-| 🐶 Woofpedia         | Dog breed & pet care information platform | React, Tailwind |
-| 🎬 CineBinge         | Movie discovery web application           | React, API      |
-| 💼 TrackHire         | Job application tracker                   | MERN Stack      |
+| Cravefeed            | Dog breed & pet care information platform | MERN            |
+| CineBinge            | Movie discovery web application           | React, API      |
+|  TrackHire           | Job application tracker                   | MERN Stack      |
 
 
 ---
