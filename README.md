@@ -17,30 +17,6 @@
 </div>
 
 ---
-
-## 🟣 CURRENT STATUS
-
-```text
-┌─────────────────────────────────────────────────────┐
-│                                                     │
-│  🟢 STATUS                                          │
-│     Building • Learning • Looking for opportunities │
-│                                                     │
-│  👩‍💻 ROLE                                            │
-│     Frontend Developer                              │
-│                                                     │
-│  🚀 DESTINATION                                     │
-│     Full Stack Developer                            │
-│                                                     │
-│  🧠 CURRENT FOCUS                                   │
-│     React • TypeScript • Node.js • DSA              │
-│                                                     │
-│  🎨 SIDE QUEST                                     │
-│     UI/UX • Figma • Better interfaces               │
-│                                                     │
-└─────────────────────────────────────────────────────┘
-```
-
 ---
 
 ## 🧬 DEVELOPER PROFILE
@@ -145,25 +121,6 @@ A movie discovery application for exploring movies through an external API.
 
 ---
 
-## 🧪 CURRENTLY IN THE LAB
-
-```text
-01  TypeScript
-    └── Making JavaScript less chaotic.
-
-02  Next.js
-    └── Exploring modern full-stack React.
-
-03  DSA
-    └── Training the problem-solving muscle.
-
-04  GenAI
-    └── Exploring how AI can become part of products.
-
-05  UI/UX
-    └── Making things functional AND beautiful.
-```
-
 ---
 
 ## 📊 GITHUB PULSE
@@ -196,30 +153,6 @@ A movie discovery application for exploring movies through an external API.
 
 ---
 
-# 🎯 2026 MISSION
-
-```text
-                    ┌─────────────────────┐
-                    │    FULL STACK 🚀    │
-                    └──────────┬──────────┘
-                               │
-             ┌─────────────────┼─────────────────┐
-             │                 │                 │
-             ▼                 ▼                 ▼
-        React Mastery      TypeScript          DSA
-             │                 │                 │
-             └─────────────────┼─────────────────┘
-                               │
-                               ▼
-                       Production Projects
-                               │
-                               ▼
-                        Open Source 🌍
-                               │
-                               ▼
-                       Full Stack Role 🎯
-```
-
 ---
 
 ## 💭 A LITTLE MORE ABOUT ME
@@ -248,11 +181,11 @@ The goal is simple:
 <img src="https://img.shields.io/badge/GitHub-171321?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
-<a href="https://www.linkedin.com/">
+<a href="https:/www.linkedin.com/in/abisha-winslet">
 <img src="https://img.shields.io/badge/LinkedIn-171321?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
-<a href="mailto:YOUR_EMAIL@gmail.com">
+<a href="mailto:abishawinslet@gmail.com">
 <img src="https://img.shields.io/badge/Email-171321?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
@@ -262,7 +195,11 @@ The goal is simple:
 
 <div align="center">
 
-### `while(alive) { learn(); build(); repeat(); }`
+### `while(alive) { 
+  learn(); 
+  build(); 
+  repeat(); 
+}`
 
 <br/>
 
