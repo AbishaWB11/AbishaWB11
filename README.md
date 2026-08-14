@@ -1,99 +1,182 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=280&color=0:6C63FF,100:C084FC&text=ABISHA%20WINSLET&fontSize=60&fontAlignY=40&animation=fadeIn"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=250&color=0:171321,50:6C63FF,100:C084FC&text=ABISHA%20WINSLET&fontSize=58&fontAlignY=42&animation=fadeIn&fontColor=FFFFFF"/>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=28&duration=2500&pause=1000&color=C084FC&center=true&vCenter=true&width=800&lines=Frontend+Developer;React+Developer;Learning+Full+Stack+Development"/>
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=500&size=24&duration=2800&pause=1000&color=C084FC&center=true&vCenter=true&width=850&lines=Frontend+Developer;React+%7C+JavaScript+%7C+UI%2FUX;Building+my+way+to+Full+Stack;Turning+ideas+into+interfaces"/>
 
-###  Frontend Developer | React Enthusiast 
+<br/>
 
-Building clean user experiences and solving real-world problems through code.
+**Frontend Developer → Full Stack Developer**
 
-<img src="https://komarev.com/ghpvc/?username=AbishaWB11&label=Profile+Views&color=8b5cf6&style=for-the-badge"/>
+*I build interfaces, experiment with ideas, and turn problems into products.*
+
+<br/>
+
+<img src="https://komarev.com/ghpvc/?username=AbishaWB11&label=PROFILE+VIEWS&color=8B5CF6&style=for-the-badge"/>
 
 </div>
 
 ---
 
-# 👩‍💻 About Me
+## 🟣 CURRENT STATUS
 
-```javascript
-const abisha = {
-  name: "Abisha Winslet",
-  role: "Frontend Developer",
-  location: "India",
-
-  currentlyLearning: [
-    "React",
-    "TypeScript",
-    "Next.js",
-    "Node.js",
-    "DSA"
-  ],
-
-  building: [
-    "Cravefeed  ",
-    "TrackHire 💼",
-    "CineBinge 🎬"
-  ],
-
-  interests: [
-    "Frontend Development",
-    "Open Source",
-    "Web Performance"
-  ],
-
-  goal: "Become a  Full Stack Developer"
-}
+```text
+┌─────────────────────────────────────────────────────┐
+│                                                     │
+│  🟢 STATUS                                          │
+│     Building • Learning • Looking for opportunities │
+│                                                     │
+│  👩‍💻 ROLE                                            │
+│     Frontend Developer                              │
+│                                                     │
+│  🚀 DESTINATION                                     │
+│     Full Stack Developer                            │
+│                                                     │
+│  🧠 CURRENT FOCUS                                   │
+│     React • TypeScript • Node.js • DSA              │
+│                                                     │
+│  🎨 SIDE QUEST                                     │
+│     UI/UX • Figma • Better interfaces               │
+│                                                     │
+└─────────────────────────────────────────────────────┘
 ```
 
 ---
 
-#  Featured Projects
+## 🧬 DEVELOPER PROFILE
 
-| Project              | Description                               | Stack           |
-| -------------------- | ----------------------------------------- | --------------- |
-| Cravefeed            | food related content                      | MERN            |
-| CineBinge            | Movie discovery web application           | React, API      |
-|  TrackHire           | Job application tracker                   | MERN Stack      |
+```javascript
+const abisha = {
 
+  identity: {
+    name: "Abisha Winslet",
+    role: "Frontend Developer",
+    direction: "Full Stack Development",
+    location: "India"
+  },
+
+  frontend: [
+    "HTML",
+    "CSS",
+    "JavaScript",
+    "React",
+    "Tailwind CSS",
+    "Bootstrap"
+  ],
+
+  backend: [
+    "Node.js",
+    "Express.js",
+    "REST APIs"
+  ],
+
+  database: [
+    "MongoDB",
+    "MySQL"
+  ],
+
+  currentlyExploring: [
+    "TypeScript",
+    "Next.js",
+    "DSA",
+    "GenAI"
+  ],
+
+  design: [
+    "Figma",
+    "UI/UX",
+    "Responsive Design"
+  ],
+
+  philosophy:
+    "Build it. Break it. Understand it. Improve it."
+};
+```
 
 ---
 
-# 🛠 Tech Stack
+# 🚀 BUILD LOG
 
-### Frontend
+### 🍔 Cravefeed
 
-<p align="center">
-<img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,bootstrap,vite" />
-</p>
+A food-focused web experience designed around discovering and exploring food content.
 
-### Backend & Database
-
-<p align="center">
-<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql" />
-</p>
-
-### Tools
-
-<p align="center">
-<img src="https://skillicons.dev/icons?i=git,github,vscode,postman,vercel,netlify" />
-</p>
+**Stack:** `MERN`
 
 ---
 
-# 📊 GitHub Analytics
+### 💼 TrackHire
+
+A job application tracking platform designed to make the job-search process easier to organize.
+
+**Stack:** `React` `Node.js` `Express` `MongoDB`
+
+---
+
+### 🎬 CineBinge
+
+A movie discovery application for exploring movies through an external API.
+
+**Stack:** `React` `API` `JavaScript`
+
+---
+
+## 🛠️ TECH INVENTORY
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=AbishaWB11&show_icons=true&theme=tokyonight&hide_border=true"/>
+### Frontend
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AbishaWB11&layout=compact&theme=tokyonight&hide_border=true"/>
+<img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,bootstrap,vite" />
+
+### Backend & Database
+
+<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql" />
+
+### Tools
+
+<img src="https://skillicons.dev/icons?i=git,github,vscode,postman,vercel,netlify" />
+
+### Currently Exploring
+
+<img src="https://skillicons.dev/icons?i=typescript,nextjs" />
 
 </div>
 
 ---
 
-# 🔥 Contribution Streak
+## 🧪 CURRENTLY IN THE LAB
+
+```text
+01  TypeScript
+    └── Making JavaScript less chaotic.
+
+02  Next.js
+    └── Exploring modern full-stack React.
+
+03  DSA
+    └── Training the problem-solving muscle.
+
+04  GenAI
+    └── Exploring how AI can become part of products.
+
+05  UI/UX
+    └── Making things functional AND beautiful.
+```
+
+---
+
+## 📊 GITHUB PULSE
+
+<div align="center">
+
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=AbishaWB11&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github"/>
+
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AbishaWB11&layout=compact&theme=tokyonight&hide_border=true"/>
+
+</div>
+
+<br/>
 
 <div align="center">
 
@@ -103,30 +186,86 @@ const abisha = {
 
 ---
 
-# 📈 Contribution Graph
+## 📈 CONTRIBUTION TRAIL
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=AbishaWB11&theme=tokyo-night&hide_border=true"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=AbishaWB11&theme=tokyo-night&hide_border=true&area=true"/>
 
 </div>
 
 ---
 
-# 🎯 2026 Goals
+# 🎯 2026 MISSION
 
-* ✅ Contribute to Open Source Projects
-* ✅ Master React Ecosystem
-* ✅ Learn TypeScript & Next.js GenAI
-* ✅ Improve DSA Skills
-* ✅ Build Production Ready Applications
-* 🎯 Land a Full Stack Developer Role
-  
+```text
+                    ┌─────────────────────┐
+                    │    FULL STACK 🚀    │
+                    └──────────┬──────────┘
+                               │
+             ┌─────────────────┼─────────────────┐
+             │                 │                 │
+             ▼                 ▼                 ▼
+        React Mastery      TypeScript          DSA
+             │                 │                 │
+             └─────────────────┼─────────────────┘
+                               │
+                               ▼
+                       Production Projects
+                               │
+                               ▼
+                        Open Source 🌍
+                               │
+                               ▼
+                       Full Stack Role 🎯
+```
+
 ---
+
+## 💭 A LITTLE MORE ABOUT ME
+
+I enjoy the intersection between **design and development**.
+
+I'm interested in the small details that make an interface feel good:
+
+`spacing` · `animations` · `responsiveness` · `accessibility` · `performance`
+
+But I'm also going deeper into what happens behind the screen:
+
+`APIs` · `authentication` · `databases` · `architecture` · `deployment`
+
+The goal is simple:
+
+> **Don't just build interfaces. Learn how the whole product works.**
+
+---
+
+## 🌐 LET'S CONNECT
 
 <div align="center">
 
+<a href="https://github.com/AbishaWB11">
+<img src="https://img.shields.io/badge/GitHub-171321?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:6C63FF,100:C084FC"/>
+<a href="https://www.linkedin.com/">
+<img src="https://img.shields.io/badge/LinkedIn-171321?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="mailto:YOUR_EMAIL@gmail.com">
+<img src="https://img.shields.io/badge/Email-171321?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+</div>
+
+<br/>
+
+<div align="center">
+
+### `while(alive) { learn(); build(); repeat(); }`
+
+<br/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:171321,50:6C63FF,100:C084FC"/>
 
 </div>
