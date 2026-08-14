@@ -188,16 +188,8 @@ The goal is simple:
 </div>
 
 <br/>
----
 
-<div align="left">
-
-### `while(alive) { 
-  learn(); 
-  build(); 
-  repeat(); 
-}`
-
+<div align="center">
 <br/>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:171321,50:6C63FF,100:C084FC"/>
