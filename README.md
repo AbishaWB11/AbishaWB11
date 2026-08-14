@@ -52,7 +52,7 @@ const abisha = {
 
 | Project              | Description                               | Stack           |
 | -------------------- | ----------------------------------------- | --------------- |
-| Cravefeed            | Dog breed & pet care information platform | MERN            |
+| Cravefeed            | food related content                      | MERN            |
 | CineBinge            | Movie discovery web application           | React, API      |
 |  TrackHire           | Job application tracker                   | MERN Stack      |
 
