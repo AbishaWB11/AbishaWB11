@@ -2,7 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&height=250&color=0:171321,50:6C63FF,100:C084FC&text=ABISHA%20WINSLET&fontSize=58&fontAlignY=42&animation=fadeIn&fontColor=FFFFFF"/>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=500&size=24&duration=2800&pause=1000&color=C084FC&center=true&vCenter=true&width=850&lines=Frontend+Developer;React+%7C+JavaScript+%7C+UI%2FUX;Building+my+way+to+Full+Stack;Turning+ideas+into+interfaces"/>
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=500&size=24&duration=2800&pause=1000&color=C084FC&center=true&vCenter=true&width=850&lines=Frontend+Developer;React+%7C+JavaScript+%7C+UI%2FUX;"/>
 
 <br/>
 
