@@ -64,12 +64,10 @@ const abisha = {
     "Responsive Design"
   ],
 
-  philosophy:
-    "Build it. Break it. Understand it. Improve it."
+ 
 };
 ```
 
----
 
 # 🚀 BUILD LOG
 
@@ -121,7 +119,6 @@ A movie discovery application for exploring movies through an external API.
 
 ---
 
----
 
 ## 📊 GITHUB PULSE
 
@@ -153,7 +150,6 @@ A movie discovery application for exploring movies through an external API.
 
 ---
 
----
 
 ## 💭 A LITTLE MORE ABOUT ME
 
@@ -192,8 +188,9 @@ The goal is simple:
 </div>
 
 <br/>
+---
 
-<div align="center">
+<div align="left">
 
 ### `while(alive) { 
   learn(); 
